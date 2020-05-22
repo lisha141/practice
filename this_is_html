@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+  <head>
+    <title>foodjunkie</title>
+    <link rel="stylesheet" href="indexnew.css">
+  </head>
+  <body>
+    
+    <p style="text-align:center">
+    <img src="https://image.shutterstock.com/image-vector/fast-food-meal-line-icon-260nw-404551810.jpg"
+         width=200 height=200 >
+    </p>
+    
+    <p class="special"><i><b>FOOD JUNKIE</b></i><br>
+      
+     <b>You Can't Just Eat Food.<br>You've Got To Talk About It Too.</b></p>
+    
+   <p class="imp"> As they say "Good Food Is Good Mood".Believe it or not food plays a major role in deciding ones mood and health conditions.Since it is such a critical part of our body we should be really concerned and aware about our eating habits, and must be able to connect with our food emotionally.</p>
+    <h2  style="text-align:center;"><i>"There is no sincere love than that of FOOD."</i></h2>
+    <p class="special">
+    <img src="https://www.foodiesfeed.com/wp-content/uploads/2019/06/top-view-for-box-of-2-burgers-home-made.jpg"
+         height=600 width="500" alt="IM a SNACK" 
+    title="You Hungry?">
+    </p>
+    <h2 style="text-align:center; position:relative;"><i>Here are some delicious recipies to enjoy an amazing meal at home.</i></h2>
+    <ul id="new">
+      <li><a href="#pancakes"><u>Pancakes</u></a></li>
+      <li><a href="#ramen"><u>Ramen</u></a></li> 
+    </ul>
+      <section id="pancakes" style="margin-bottom:90px;">
+<ol type="1">PANCAKES
+      <hr>
+    <li>Prepare batter for pancakes with pancake mix and water in adequate amount.</li>
+    <li>Now allow the batter to be medium thick.</li>
+    <li>Place a pan and wait till its hot,now use batter and make pancakes by spreading batter over the pan (YOU CAN GET CREATIVE!).</li>
+    <li>Take the pancakes out of pan and enjoy these hoties witha dash of maple syrup at the top.</li></ol>
+    <img src="https://d3eh3svpl1busq.cloudfront.net/iinUswTslMjMsCHoFXXLmYtvMNoxmQOx/assets/static/source/rev-a250ebe/wp-content/uploads/2017/05/Homemade-Maple-Syrup-with-3-Ingredients-6.jpg"
+         class="move"
+         alt="These are yum" height=300 width=300 >
+    </section>
+      <section id="ramen">
+ <ul style="list-style-type:square;">RAMEN
+   <hr>
+   <li>Use a packet of market ramen noodles.</li>
+   <li>Open the packet and place ingredients into the boiling water.</li>
+   <li>Add adequate amount of salt in water.</li>
+   <li>Leave it for about 5 min and make sure that you have added all spices according to your choice.</li>
+   <li>Now take out the cooked ramen in a bowl and enjoy your meal with a dash of chilli sauce.</li>
+        </ul>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKnLDTdbz14CW0USkhRU5eHFR7IvtS--VDCNoRsIlhEbYYYOM2&usqp=CAU" class="move1"
+     heigth=100 width=300></section>
+        <p>Want to share your recipies?Share your foodie experiences with us.</p>
+        <a href="https://mail.google.com/mail/u/0/?tab=wm1#search/from%3Ame" target="_blank"><u>Sharemyexperience.foodie</u></a>
+        <hr>
+        <hr>
+        
+   <h4><i>BON APPETITE</i></h4>
+   &copy;Lisha Ahuja
+  </body>
+    </html>
