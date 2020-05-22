@@ -1,0 +1,44 @@
+.imp{
+  text-align:center;
+  font-size:250%;
+  font-style:italic;
+ font-family:"gabriola",serif;
+  background-color:Tomato;
+  color:white;
+  }
+
+.special{
+  text-align:center;
+   font-family:"gabriola",serif;
+  font-size:200%;
+}
+a:link,a:visited{
+  color:white;
+ background-color:tomato;
+  font-size:250%;
+  list-style:none;
+  text-align:center;
+  font-family:"gabriola",serif;
+}
+#pancakes,#ramen{
+  background-color:tan;
+  font-family:"gabriola",serif;
+  font-size:150%;
+  text-align:left;
+  width:60%;
+ 
+ }
+img.move{
+  float:right;
+  position:absolute;
+  right:0px;
+  top:1600px;
+ 
+  }
+img.move1{
+  float:right;
+  position:absolute;
+  right:0px;
+  top:1990px;
+  
+}
